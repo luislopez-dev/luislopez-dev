@@ -9,9 +9,6 @@ I currently live in Guatemala and have around 2 years of overall experience as a
 * Amazon web services
 * QA automation tasks
 * DNS management
-* Experience working with remote teams.
-* Fluent verbal and written communication in English and Spanish.
-
 
 <!--
 **Luis-Rene-Lopez/Luis-Rene-Lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
