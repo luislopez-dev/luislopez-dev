@@ -10,7 +10,7 @@ A self-motivated software developer with proven and tested IT skills, I currentl
 * Amazon web services
 * QA automation
 * DNS management
-
+You can reach me out at my secondary email adress luislopez100079.facebook@gmail.com or at my Upwork profile linked in my profile. 
 <!--
 **Luis-Rene-Lopez/Luis-Rene-Lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
