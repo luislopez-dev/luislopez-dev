@@ -13,7 +13,7 @@ A self-motivated software developer with proven and tested IT skills, I currentl
 
 In case you need to contact me, feel free to reach me out at luislopez100079.facebook2@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Rene-Lopez)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Rene-Lopez&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Luis-Rene-Lopez/Luis-Rene-Lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
