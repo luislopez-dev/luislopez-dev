@@ -11,7 +11,6 @@ A self-motivated software developer with proven and tested IT skills, I currentl
 * QA automation
 * DNS management
 
-luislopez100079.facebook@gmail.com
 <!--
 **Luis-Rene-Lopez/Luis-Rene-Lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
