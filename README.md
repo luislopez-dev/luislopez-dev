@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-Rene-Lopez&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Rene-Lopez)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@81f13748-67f4-4217-816c-64abbe214c54)](https://github.com/anuraghazra/github-readme-stats)
