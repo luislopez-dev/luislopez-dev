@@ -11,7 +11,7 @@ A self-motivated software developer with proven and tested IT skills, I currentl
 * QA automation
 * DNS management
 
-In case you need to contact me, feel free to reach me at luislopez100079.facebook2@gmail.com
+In case you need to contact me, feel free to reach me out at luislopez100079.facebook2@gmail.com
 
 <!--
 **Luis-Rene-Lopez/Luis-Rene-Lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
