@@ -1,8 +1,6 @@
 ### Hello, I'm Luis Lopez 👋
 
-I currently live in Guatemala and have around 2 years of overall experience as an IT professional, I have experience working with remote teams from all over the world, I distinguish myself for being a self learner software developer. Since around 2 years ago I’ve been doing freelance jobs as a way to earn a living, I have done jobs as backend & fronted developer developer, Sysadmin linux engineer. My tech skills are as follows:
-
-I have 10 months of professional experience as an IT specialist:
+I currently live in Guatemala and have around 2 years of overall experience as an IT professional, I have experience working with remote teams from all over the world, I distinguish myself for being a self learner software developer and providing fluent verbal communication in English and Spanish.. Since around 2 years ago I’ve been doing freelance jobs as a way to earn a living, I have done jobs as backend & fronted developer developer, QA Automation and Sysadmin linux engineer. My tech skills as an IT specialist are as follows:
 
 * Development of REST & GraphQL APIs for mobile and web applications.
 * Fronted development with React.js and Vue.js
