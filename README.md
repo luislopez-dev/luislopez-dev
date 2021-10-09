@@ -6,6 +6,7 @@ A self-motivated software developer with proven and tested IT skills, I currentl
 * Fronted development with React.js and Vue.js
 * Google and third-party API integrations
 * Linux Sysadmin
+* Bash & Python scripting
 * Amazon web services
 * QA automation
 * DNS management
