@@ -4,7 +4,7 @@ A self-motivated software developer with proven and tested IT skills, I currentl
 
 * Development of REST & GraphQL APIs for mobile and web applications.
 * Fronted development with React.js and Vue.js
-* Google and third-party API integrations
+* Google and third-party APIs integrations
 * Linux Sysadmin Tasks
 * Amazon web services
 * QA automation tasks
