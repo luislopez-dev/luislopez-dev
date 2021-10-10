@@ -1,4 +1,4 @@
-### Hello, I'm Luis Lopez 👋
+### Hello, I'm Luis Lopez
 
 A self-motivated software developer with proven and tested IT skills, I currently live in Guatemala and since 2019 I have been building my professional career as an IT specialist, I have worked with remote teams and distinguished myself for being a self-taught software developer, capable to communicate fluently in English and Spanish, experienced with Full Stack development, AWS, Linux Sysadmin and QA automation engineering. My tech skills as an IT specialist are as follows:
 
