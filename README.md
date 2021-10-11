@@ -1,15 +1,7 @@
 ### Hello, I'm Luis Lopez
 
-A self-motivated software developer with proven and tested IT skills, I currently live in Guatemala and since 2019 I have been building my professional career as an IT specialist, I have worked with remote teams and distinguished myself for being a self-taught software developer, capable to communicate fluently in English and Spanish, experienced with Full Stack development, AWS, Linux Sysadmin and QA automation engineering. My tech skills as an IT specialist are as follows:
+A self-motivated software developer with proven and tested IT skills, I currently live in Guatemala and since 2019 I have been building my professional career as an IT specialist, I have worked with remote teams and stand out for being a self-taught software developer, capable to communicate fluently in English and Spanish, experienced with Full Stack development, AWS, Linux Sysadmin and QA automation engineering.
 
-* Development of REST & GraphQL APIs for mobile and web applications.
-* Fronted development with React.js and Vue.js
-* Google and third-party API integrations
-* Linux Sysadmin
-* Bash & Python scripting
-* Amazon web services
-* QA automation
-* DNS management
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Rene-Lopez&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 -->
