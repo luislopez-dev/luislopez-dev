@@ -8,8 +8,10 @@ A self-motivated software developer with proven and tested IT skills, I currentl
 
 <!-- In case you need to contact me, feel free to send me an email at luislopez100079.facebook2@gmail.com -->
 
+<!--
 **Luis-Rene-Lopez/Luis-Rene-Lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+-->
 
 <!--
 - 🔭 I’m currently working on ...
