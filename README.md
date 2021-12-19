@@ -1,6 +1,6 @@
 ### Hello, I'm Luis Lopez
 
-A self-motivated software developer with proven and tested IT skills, I currently live in Guatemala and since 2019 I have been building my professional career as an IT specialist, I have worked with remote teams and stand out for being a self-taught software developer, capable to communicate fluently in English and Spanish, experienced with Full Stack development, AWS, Linux Sysadmin and QA automation engineering.
++3 Years of professional experience working as a full stack developer. Bilingual Spanish and English speaker. Experienced working with Nodejs, React, Vuejs and Laravel. Familiar with AWS and Linux environments.
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Rene-Lopez&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
