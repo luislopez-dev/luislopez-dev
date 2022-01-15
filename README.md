@@ -1,7 +1,4 @@
 ### Hello, I'm Luis Lopez
-
-+3 Years of professional experience working as a full stack developer. Bilingual Spanish and English speaker. Experienced working with Nodejs, React, Vuejs and Laravel. Familiar with AWS and Linux environments.
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Rene-Lopez&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 -->
