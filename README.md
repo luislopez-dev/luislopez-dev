@@ -8,7 +8,7 @@
 - 📫 How to reach me: luis.dev.master@gmail.com
 - 😄 Fun fact: PHP is also an offcial coin 
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luislopez-dev&show_icons=true&theme=gruvbox)
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luislopez-dev&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luislopez-dev&langs_count=8)
 
 
