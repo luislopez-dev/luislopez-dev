@@ -9,8 +9,7 @@
 - 😄 Fun fact: PHP is also an offcial coin 
 
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luislopez-dev&theme=cobalt?show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luislopez-dev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luislopez-dev&langs_count=8)
 
 
