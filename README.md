@@ -2,10 +2,10 @@
 
 <!-- 🤔 I’m looking for help with ... -->
 <!--  🔭 I’m currently working on ... -->
-<!-- - 📫 How to reach me: luis.dev.master@gmail.com -->
 - 🌱 I’m currently learning penetration testing
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about JavaScript & Python
+- 📫 How to reach me: luis.dev.master@gmail.com 
 - 😄 Fun fact: PHP is also an offcial coin 
 
 
