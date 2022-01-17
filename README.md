@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about JavaScript & Python
 - 📫 How to reach me: luislopez.developer@gmail.com
-- 😄 Fun fact: PHP is also the name of an offcial coin 
+- 😄 Fun fact: PHP is also an offcial coin 
 
 
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luislopez-dev&theme=onedark)
