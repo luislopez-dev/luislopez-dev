@@ -2,7 +2,7 @@
 
 <!-- 🤔 I’m looking for help with ... -->
 <!--  🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Cloud computiong with Azure & AWS
+- 🌱 I’m currently learning cloud computiong with Azure & AWS ☁️ 
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about JavaScript / Node.js
 - 📫 How to reach me: luis.dev.master@gmail.com 
