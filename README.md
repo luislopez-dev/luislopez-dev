@@ -4,7 +4,7 @@
 <!--  🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Cloud computiong with Azure & AWS
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about JavaScript, React, Angular, Node.js, Python, Java & PHP
+- 💬 Ask me about JavaScript / Node.js & Python. I am slo familiar with React, Angular, Java & PHP
 - 📫 How to reach me: luis.dev.master@gmail.com 
 - 😄 Fun fact: PHP is also an offcial coin 
 
