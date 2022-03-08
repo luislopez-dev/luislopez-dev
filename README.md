@@ -1,4 +1,4 @@
-![Anarchism](anarquismo.jpg "Header")
+![Header](anarquismo.jpg "Anarchism")
 
 ### Hello, I'm Luis
 
