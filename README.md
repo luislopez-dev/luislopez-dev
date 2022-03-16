@@ -19,9 +19,7 @@
 --> 
 
 <img src="https://img.icons8.com/external-others-phat-plus/48/000000/external-connection-browser-and-interface-blue-others-phat-plus-6.png"/> [<img src="https://img.icons8.com/color/48/000000/mongodb.png">](https://www.mongodb.com/)[<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>](https://linuxfoundation.org/)[<img src="https://img.icons8.com/plasticine/48/000000/bash.png">](https://www.gnu.org/software/bash/)
-
-
-<!-- ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luislopez-dev&show_icons=true&theme=dark) -->
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luislopez-dev&show_icons=true&theme=dark)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luislopez-dev&langs_count=8) -->
 
