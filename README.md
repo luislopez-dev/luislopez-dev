@@ -1,4 +1,4 @@
-![Header](anarquismo.jpg "I don't have goverment!")
+![Header](anarquismo.jpg "I don't have government!")
 
 ### Hello, I'm Luis
 
