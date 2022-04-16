@@ -1,4 +1,4 @@
-![Header](anarquismo.jpg "0% government, 100% independent talent built for big things")
+<!-- ![Header](anarquismo.jpg "0% government, 100% independent talent built for big things") -->
 
 ### Hello, I'm Luis
 
