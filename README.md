@@ -4,7 +4,7 @@
 
 <!-- 🤔 I’m looking for help with ... -->
 <!--  🔭 I’m currently working on ... -->
-- 🌱 I’m currently syuding data structures & algorithms 
+- 🌱 I’m currently syuding Blockchain 
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: Not available at the momment
 - ♥️ Proud to work with:
